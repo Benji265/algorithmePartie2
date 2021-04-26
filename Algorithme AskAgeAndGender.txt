@@ -1,0 +1,21 @@
+Algorithme AskAgeAndGender
+
+age: integer
+gender : string
+
+
+Write("Votre age")
+Read(age)
+Writre("Votre genre")
+Read(gender)
+
+
+if age >= 18 and gender = "Femme" then
+    Write("Vous etes une femme et vous etes majeur")
+elseif age < 18 and gender = "Femme" then
+    Write("Vous etes une femme et vous etes mineur)
+elseif age >= 18 and gender = "Homme" then
+    Write("Vous etes un homme et vous etes majeur")
+else
+    Write("Vous etes un homme et vous etes mineur")
+endif

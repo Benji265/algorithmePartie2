@@ -1,0 +1,15 @@
+Algorithme DivNumber
+
+firstNumber: integer
+secondeNumber: integer
+resultDiv: integer
+
+firstNumber <- 12
+secondeNumber <- 4
+resultDiv <- firstNumber / secondeNumber
+
+if resultDiv %4 = 0 then
+    Write("Oui")
+else
+    Write("Non")
+endif

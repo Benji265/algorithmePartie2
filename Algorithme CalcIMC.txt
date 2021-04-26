@@ -1,0 +1,3 @@
+Algorithme CalcIMC
+
+Resultat : Surveillez votre poids, votre IMC est de 27,951020408163265
